@@ -1,7 +1,7 @@
 <h2>Hi, my name is Yohanes Rio Irsan<br>
 Welcome to my GitHub Page</h2>
 
-![animesher com_summer-wars-movie-38902](https://user-images.githubusercontent.com/82473445/226647304-ed15939c-fd5e-42f6-83da-3064522f752d.gif)
+<p align"center>![animesher com_summer-wars-movie-38902](https://user-images.githubusercontent.com/82473445/226647304-ed15939c-fd5e-42f6-83da-3064522f752d.gif)</p>
 
 <h3><b>Socials : </b></h3>
 - <b>Email : rioirsan8@gmail.com<b><br>
