@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm hadez. Welcome.</h2> 
+<h2>Hi 👋, I'm Rio. Welcome.</h2> 
 <h3><b>Socials :</b></h3>
 <ul>
   <li><a href="https://www.twitter.com/rioirsan31">Twitter</a></li>
