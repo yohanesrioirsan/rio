@@ -1,4 +1,5 @@
-<h2>Welcome.</h2> 
+<img src="https://i.imgur.com/jgGEtKJ.jpeg" style="width: 150px; height: 150px;"/>
+<h2>Welcome.</h2>
 <p>Coding, Gaming, Both.</p>
 <p>Frontend dev and a fps games tryharder.</p>
 <h3><b>Socials :</b></h3>
