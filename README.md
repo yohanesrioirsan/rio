@@ -1,4 +1,5 @@
 <img src="https://i.imgur.com/jgGEtKJ.jpeg" style="width: 150px; height: 150px;"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohanesrioirsan&label=Profile%20views&color=0e75b6&style=flat" alt="yohanesrioirsan" /> </p>
 <h2>Welcome.</h2>
 <p>Coding, Gaming, Both.</p>
 <p>Frontend dev and a fps games tryharder.</p>
